@@ -22,7 +22,8 @@ print(sorted)
 ```
 
 ## Output
-![Uploading 5a.png…]()
+<img width="973" height="600" alt="5a" src="https://github.com/user-attachments/assets/50da9901-8777-47cb-bb6e-6776221cbc16" />
+
 
 
 ## Result
